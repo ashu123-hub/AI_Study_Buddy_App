@@ -59,5 +59,3 @@ Wait a few seconds for Streamlit to start the local server.
 All tests in test_project.py should pass successfully.
 
 Thank you!
-
-by Saima Usman Final Project:CS50’s Introduction to Programming with Python by Harvard
