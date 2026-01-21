@@ -91,7 +91,7 @@ def main():
     page = st.sidebar.radio(
         "Go to:", ["💬 Chat", "🧾 Summarize Notes", "🎯 Quiz Me"])
     st.sidebar.markdown("---")
-    st.sidebar.caption("Made with ❤️ by Ashutosh Rai")
+    st.sidebar.caption("Made with by Ashutosh Rai")
 
     # -------------------------------
     # 💬 Chat Page
